@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test5.git/static/css/main.fb807575.css",
+    "main.js": "/test5.git/static/js/main.919a33a7.js",
+    "static/js/453.bea66239.chunk.js": "/test5.git/static/js/453.bea66239.chunk.js",
+    "static/media/slide23.jpg": "/test5.git/static/media/slide23.848bc3cf9744886d4732.jpg",
+    "static/media/slick.svg": "/test5.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/test5.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/test5.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/test5.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/test5.git/index.html",
+    "main.fb807575.css.map": "/test5.git/static/css/main.fb807575.css.map",
+    "main.919a33a7.js.map": "/test5.git/static/js/main.919a33a7.js.map",
+    "453.bea66239.chunk.js.map": "/test5.git/static/js/453.bea66239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb807575.css",
+    "static/js/main.919a33a7.js"
+  ]
+}
